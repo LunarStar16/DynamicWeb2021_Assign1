@@ -27,42 +27,37 @@ calander text: #B3B1B3
 #page{
     background-color: #171617;
 }
+
 header{
     background-color: #171617;
 }
 
-.navbar-light .navbar-toggler{
-    border:1px solid #343434!important;
-
-}
-
-body{
-    background-color: #171617!important;
-    color: white!important;
-}
 #page-content{
     background-color: #171617;
 }
-.card{
-    background-color: #343434!important;
-}
+
 .card-body{
     background-color: #1C1C1C;
     border: 1px solid #343434;
 }
+
 #current_title_heading, #past_title_heading{
     background-color: #363636;
     border: 1px solid #343434;
 }
+
 .text-xs-center{
     color: #7D7A7C;
 }
+
 .day.text-center{
     color: #B3B1B3;
 }
+
 .calendar_event_course{
     background-color: #7D7A7C!important;
 }
+
 h1, h2, h3, h4, h5, h6, p{
     color: white;
 }
@@ -71,54 +66,23 @@ h1, h2, h3, h4, h5, h6, p{
     background-color: #212121!important;
     border: 1px solid #343434;
 }
+
 #headingcurrent_title, #headinglong_term_title, #headingpast_title{
     background-color: #363636;
     border: 1px solid #343434;
 }
+
 #page-header.row.uofl_breadcrumb_bar{
     background-color: #1C1C1C;
 }
+
 div.card-text.content.mt-3{
     color: white;
 }
-.btn{
-    background-color: #363636!important;
-    color: white!important;
-    border-color: #7D7A7C!important;
-}
 
-.uleth_main_top_nav{
-    background-color: #171617!important;
-}
 #uleth_burgers_fries_n_pop.navbar-collapse.collapse.show{
     background: #363636;
-    border-color: #7D7A7C!important;
 }
-
-.dropdown-menu.dropdown-menu-right.menu.align-tr-br.show{
-    background-color: #363636!important;
-}
-
-.page-link{
-    color: #007193!important;
-    background-color: #363636!important;
-}
-.page-link:hover{
-    
-}
-
-#region-main{
-    background-color: #171617!important;
-}
-
-.generaltable{
-    color: #B3B1B3!important;
-}
-
-.course-content ul.ctopics li.section .content .toggle span, .course-content ul.ctopics li.section .content.sectionhidden{
-    background-color: #363636!important;
-}
-
 
 a{
     color: white!important;
