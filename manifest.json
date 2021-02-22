@@ -1,7 +1,7 @@
 {
     "manifest_version": 2, 
     "name": "Dark Mode Moodle",
-    "description": "Gives Uleth Moodle a dark mode",
+    "description": "Gives the University of Lethbridge Moodle a dark mode",
     "version": "1.0",
     "permissions": ["activeTab"],
     "content_scripts": [
@@ -14,7 +14,7 @@
      ],
     "action": {
         "default_icon": {
-            "32":"/images/icon.png"
+            "32":"/images/logo.png"
         },
         "default_popup": "popup.html"
     },

@@ -32,4 +32,14 @@ $("#region-main").css("background-color", "#171617");
 
 $(".generaltable").css("color", "#B3B1B3");
 
-$(".course-content ul.ctopics li.section .content .toggle span, .course-content ul.ctopics li.section .content.sectionhidden").css("background-color", "#363636");
+$(" .content.sectionhidden, .sectionhead.toggle.toggle-point").css("background-color", "#363636");
+$(" .sectionname").css("color", "#007193");
+
+//$(".hidden").css("background-color", "#363636");
+//$(".hidden").css("color", "white");
+
+
+//image credit: University of Lethbridge, edited by myself
+var imgURL = chrome.runtime.getURL("images/university_logoEdit.png");
+
+$(".logo img").attr("src", imgURL);
