@@ -1,10 +1,5 @@
 console.log("extension is running!")
 
-// TRY: updating the text content of an element or set of elements on one or more pages
-
-// TRY: adding a click event listener to an element that changes the background of that element to a new color
-
-// TRY: using a mouseenter event listener to update text to something new.
 
 $("body").css("background-color", "#171617");
 $("body").css("color", "white");
@@ -35,9 +30,7 @@ $(".generaltable").css("color", "#B3B1B3");
 $(" .content.sectionhidden, .sectionhead.toggle.toggle-point").css("background-color", "#363636");
 $(" .sectionname").css("color", "#007193");
 
-//$(".hidden").css("background-color", "#363636");
-//$(".hidden").css("color", "white");
-
+$(".modal-content, .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content").css("background-color", "#363636");
 
 //image credit: University of Lethbridge, edited by myself
 var imgURL = chrome.runtime.getURL("images/university_logoEdit.png");
