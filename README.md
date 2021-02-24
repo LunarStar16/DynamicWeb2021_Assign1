@@ -1,9 +1,9 @@
-#H1 University of Lethbridge Moodle Dark Mode Extension
+# University of Lethbridge Moodle Dark Mode Extension
 
-##H2 What This Extension Does:
+## What This Extension Does:
 
-This extension is just a simple dark mode that many websites use, such as Youtube or GitHub. This extension brings dark mode into the University of Lethbridge moodle website. Allowing users to see the site in a more darker apperance that's a little easier on the eyes. The exntension should work on all current and previous classes the user may have and should hopefully work on all areas of the moodle site the user has access to.
+This extension is just a simple dark mode that many websites use, such as Youtube or GitHub. This extension brings dark mode into the University of Lethbridge moodle website. Allowing the user to see the site in a more darker appearance that is a little easier on the eyes. The extension should work on all current and previous classes the user may have and should hopefully work on all areas of the moodle site the user has access to.
 
-##H2 Copyright
+## Copyright
 
-University of Lethbrige logo (c) to the University of Lethbridge
+![University of Lethbrige logo](https://www.ulethbridge.ca/unews/sites/default/files/university_logo.png) © to the University of Lethbridge
